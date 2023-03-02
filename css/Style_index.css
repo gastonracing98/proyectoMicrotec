@@ -1,0 +1,18 @@
+
+body{
+    margin: 0;
+    background-color: #efefef;   
+}
+header{
+    background-color: lightblue;
+    color: black;
+    padding: 3rem 2rem;
+}
+.usuario{
+    background-color: white;
+    width: 180px;
+    margin:0 auto;
+    
+}
+
+
