@@ -23,6 +23,7 @@ header{
     border-radius: 3rem;
     background-color: white;
     width: 180px;
+    height: 320px;
     margin:0 auto;
     
 }
@@ -52,13 +53,25 @@ width: 400px;
     position: relative;
 }
 #DNI{
-    margin: 0.5rem;
+    
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 52%;
     transform: translate(-50%, -50%);
     height: 32px;
     width: 130px;
     border-radius: 2px;
 }
-
+.contra img{
+    text-align: left;
+    position: absolute;
+    top: 50%;
+    left: 42%;
+    transform: translate(-50%, -50%);
+}
+#consultar{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
