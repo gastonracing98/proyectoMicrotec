@@ -70,9 +70,31 @@ header{
 }
 
 footer{
+
     margin-top: auto;
-    background-color: rgb(201, 201, 201);
-    padding: 1rem;
+    background-color: rgb(128, 128, 128);
+    padding: 2rem;
+
+}
+footer section{
+    float: left;
+    display: block;
+}
+footer section a{
+    color:white;
+    text-decoration: none;
+    
+}
+
+footer section a:hover{
+    color:cornflowerblue;
+    transition: color 0.5s ease;
+}
+
+footer p{
+    margin: 0 auto;
+    float: right;
+    color: white;
 }
 
 
